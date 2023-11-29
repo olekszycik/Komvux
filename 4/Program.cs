@@ -10,7 +10,7 @@ namespace _4
     {
         static void Main(string[] args)
         {
-            //Numbers.TwoNumbers();
+            Numbers.TwoNumbers();
 
             Numbers.ThreeNumbers();
 
