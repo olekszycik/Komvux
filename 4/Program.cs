@@ -10,9 +10,11 @@ namespace _4
     {
         static void Main(string[] args)
         {
-            Numbers.TwoNumbers();
+            //Numbers.TwoNumbers();
 
-            Numbers.ThreeNumbers();
+            //Numbers.ThreeNumbers();
+
+            Saga.SagaAboutTwoPeople();
 
             Console.WriteLine("Press any key.");
             Console.ReadKey();
